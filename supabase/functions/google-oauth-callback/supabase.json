@@ -1,8 +1,0 @@
-{
-  "functions": [
-    {
-      "importmap": "pin:@supabase/functions-js@2.4.1"
-    }
-  ]
-}
-
